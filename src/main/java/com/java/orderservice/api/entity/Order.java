@@ -18,7 +18,7 @@ public class Order {
 	@Id
 	private int id;
 	private String name;
-	private int quatity;
+	private int quantity;
 	private double price;
 
 }
